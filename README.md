@@ -1,4 +1,5 @@
-🌾 Farmers Market Dashboard (Power BI)
+Farmers Market Dashboard (Power BI)
+
 📊 Project Overview
 
 The Farmers Market Dashboard is an interactive Power BI report designed to analyze and visualize farmers market sales data. It helps track product performance, customer trends, and overall sales insights for better business decisions.
